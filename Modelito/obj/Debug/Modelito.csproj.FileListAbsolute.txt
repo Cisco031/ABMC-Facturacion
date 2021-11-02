@@ -1,0 +1,20 @@
+C:\Users\Francisco\source\repos\Modelito\Modelito\bin\Debug\Modelito.exe.config
+C:\Users\Francisco\source\repos\Modelito\Modelito\bin\Debug\Modelito.exe
+C:\Users\Francisco\source\repos\Modelito\Modelito\bin\Debug\Modelito.pdb
+C:\Users\Francisco\source\repos\Modelito\Modelito\obj\Debug\Modelito.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\Modelito\Modelito\obj\Debug\Modelito.Properties.Resources.resources
+C:\Users\Francisco\source\repos\Modelito\Modelito\obj\Debug\Modelito.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\Modelito\Modelito\obj\Debug\Modelito.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\Modelito\Modelito\obj\Debug\Modelito.exe
+C:\Users\Francisco\source\repos\Modelito\Modelito\obj\Debug\Modelito.pdb
+C:\Users\Francisco\source\repos\Modelito\Modelito\obj\Debug\Modelito.frmNuevaFactura.resources
+C:\Users\Francisco\source\repos\SEGUNDO CUATRIMESTRE\Modelito parcial sin capas\Modelito\bin\Debug\Modelito.exe.config
+C:\Users\Francisco\source\repos\SEGUNDO CUATRIMESTRE\Modelito parcial sin capas\Modelito\bin\Debug\Modelito.exe
+C:\Users\Francisco\source\repos\SEGUNDO CUATRIMESTRE\Modelito parcial sin capas\Modelito\bin\Debug\Modelito.pdb
+C:\Users\Francisco\source\repos\SEGUNDO CUATRIMESTRE\Modelito parcial sin capas\Modelito\obj\Debug\Modelito.csprojAssemblyReference.cache
+C:\Users\Francisco\source\repos\SEGUNDO CUATRIMESTRE\Modelito parcial sin capas\Modelito\obj\Debug\Modelito.frmNuevaFactura.resources
+C:\Users\Francisco\source\repos\SEGUNDO CUATRIMESTRE\Modelito parcial sin capas\Modelito\obj\Debug\Modelito.Properties.Resources.resources
+C:\Users\Francisco\source\repos\SEGUNDO CUATRIMESTRE\Modelito parcial sin capas\Modelito\obj\Debug\Modelito.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\SEGUNDO CUATRIMESTRE\Modelito parcial sin capas\Modelito\obj\Debug\Modelito.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\SEGUNDO CUATRIMESTRE\Modelito parcial sin capas\Modelito\obj\Debug\Modelito.exe
+C:\Users\Francisco\source\repos\SEGUNDO CUATRIMESTRE\Modelito parcial sin capas\Modelito\obj\Debug\Modelito.pdb
